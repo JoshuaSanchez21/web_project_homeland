@@ -34,3 +34,7 @@ La galería exhibe una historia inspiradora sobre la diversidad cultural de los 
 ## Autor
 
 Joshua Sánchez
+
+## Enlace GitHub
+
+https://joshuasanchez21.github.io/web_project_homeland/
